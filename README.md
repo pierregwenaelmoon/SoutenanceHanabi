@@ -11,6 +11,7 @@ aller dans le dossier HanabiIA2et3
 python3 se lance
 
 -from testeur import *
+
 -n_tests(game,nombre_de_parties)
 
 Pour faire une partie, il suffit de de choisir nombre_de_parties = 1
